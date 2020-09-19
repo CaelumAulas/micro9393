@@ -1,7 +1,6 @@
 package br.com.caelum.eats.pedido;
 
 import java.util.List;
-import java.util.Optional;
 
 import javax.transaction.Transactional;
 

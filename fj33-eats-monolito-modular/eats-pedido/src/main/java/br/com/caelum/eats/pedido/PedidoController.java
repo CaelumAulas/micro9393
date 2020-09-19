@@ -49,16 +49,20 @@ class PedidoController {
 		return new PedidoDto(pedido);
 	}
 
-	@PutMapping("/pedidos/{id}/pago")
-	void confirmaPagamentoPedido(@PathVariable("id") Long pedidoId) {
-		Pedido pedido = repo.findById(pedidoId).orElseThrow(() -> new ResourceNotFoundException());
-		repo.atualizaStatus(Pedido.Status.PAGO, pedido);
-	}
-
 	@GetMapping("/parceiros/restaurantes/{restauranteId}/pedidos/pendentes")
 	List<PedidoDto> pendentes(@PathVariable("restauranteId") Long restauranteId) {
 		return repo.doRestauranteSemOsStatus(restauranteId, Arrays.asList(Pedido.Status.REALIZADO, Pedido.Status.ENTREGUE)).stream()
 				.map(pedido -> new PedidoDto(pedido)).collect(Collectors.toList());
+	}
+
+	@PutMapping("/pedidos/{id}/pago")
+	void pago(@PathVariable("id") Long id) {
+	  Pedido pedido = repo.porIdComItens(id);
+	  if (pedido == null) {
+	    throw new ResourceNotFoundException();
+	  }
+	  pedido.setStatus(Pedido.Status.PAGO);
+	  repo.atualizaStatus(Pedido.Status.PAGO, pedido);
 	}
 
 }
