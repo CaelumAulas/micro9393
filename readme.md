@@ -82,3 +82,32 @@ https://containo.us/traefik/
 
 Aula 5:
 
+https://hub.docker.com/
+
+https://microservices.io/patterns/apigateway.html
+
+https://github.com/Netflix/zuul
+
+https://spring.io/projects/spring-cloud-gateway
+https://docs.traefik.io/user-guides/grpc/
+https://vertx.io/
+https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+https://letsencrypt.org/pt-br/
+https://kubernetes.github.io/ingress-nginx/
+https://microservices.io/patterns/data/api-composition.html
+https://colin-scott.github.io/personal_website/research/interactive_latency.html
+https://research.cs.cornell.edu/ladis2009/talks/dean-keynote-ladis2009.pdf
+https://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud/
+https://netflixtechblog.com/announcing-zuul-edge-service-in-the-cloud-ab3af5be08ee
+https://samnewman.io/patterns/architectural/bff/
+https://netflixtechblog.com/optimizing-the-netflix-api-5c9ac715cf19
+https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+https://www.casadocodigo.com.br/products/livro-desconstruindo-web?_pos=5&_sid=ae83709b6&_ss=r
+https://dask.org/
+https://aws.amazon.com/pt/emr/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+https://raft.github.io/
+http://thesecretlivesofdata.com/raft/
+https://miro.medium.com/max/700/1*HXbT0c4Q5XaiCIp6y3VMvw.png
+https://docs.microsoft.com/pt-br/dotnet/architecture/cloud-native/service-mesh-communication-infrastructure
+https://debezium.io/documentation/reference/1.2/tutorial.html
+https://github.com/confluentinc/ksql
