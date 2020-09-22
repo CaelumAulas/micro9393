@@ -1,11 +1,8 @@
 ://jamboard.google.com/d/1eUzSOdh9M29TgvSSoHSzc5AfLTknhSf9PVghUD8wIB8/edit?usp=sharing
 
-
 https://gitlab.com/aovs/projetos-cursos/fj33-eats-monolito
 
-
 https://gitlab.com/snippets/1954188/raw
-
 
 https://gitlab.com/aovs/projetos-cursos/fj33-eats-ui
 https://gitlab.com/aovs/projetos-cursos/fj33-eats-pagamento-service
@@ -26,7 +23,6 @@ Resolver o problema de docker com o fedora 32:
 
 - https://fedoramagazine.org/docker-and-fedora-32
 
-
 Query no controller:
 
 -https://twitter.com/Nick_Craver/status/1302224491259588609
@@ -38,7 +34,6 @@ Livros:
 - https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QV5UR445GEHQ&dchild=1&keywords=domain+driven+design&qid=1600205944&s=digital-text&sprefix=domain+driv%2Cdigital-text%2C283&sr=1-1
 
 - https://www.amazon.com.br/Implementing-Domain-Driven-Design-English-Vaughn-ebook/dp/B00BCLEBN8/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QV5UR445GEHQ&dchild=1&keywords=domain+driven+design&qid=1600205958&s=digital-text&sprefix=domain+driv%2Cdigital-text%2C283&sr=1-3
-
 
 Aula 2:
 
@@ -59,8 +54,6 @@ https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann
 https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data
 https://flywaydb.org/
 https://aws.amazon.com/fargate/
-
-
 
 Aula 4:
 
@@ -111,3 +104,39 @@ https://miro.medium.com/max/700/1*HXbT0c4Q5XaiCIp6y3VMvw.png
 https://docs.microsoft.com/pt-br/dotnet/architecture/cloud-native/service-mesh-communication-infrastructure
 https://debezium.io/documentation/reference/1.2/tutorial.html
 https://github.com/confluentinc/ksql
+
+Aula 6:
+
+https://logz.io/blog/istio-linkerd-consul-comparison-service-meshes/
+https://github.com/Netflix/ribbon
+https://localstack.cloud/
+https://landscape.cncf.io/category=coordination-service-discovery&format=card-mode&grouping=category
+https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/
+https://arccwiki.uwyo.edu/index.php/Git_Workflow
+https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416
+https://services.google.com/fh/files/misc/state-of-devops-2019.pdf
+https://trunkbaseddevelopment.com/styles/
+https://seesparkbox.com/foundry/semantic_commit_messages
+https://engineering.upside.com/delivering-immutable-applications-acbde07ff040
+https://git-school.github.io/visualizing-git/
+https://www.youtube.com/watch?v=6Czd1Yetaac
+https://github.com/erlang/otp/wiki/writing-good-commit-messages
+https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339#:~:text=OK-,Accelerate%3A%20The%20Science%20of%20Lean%20Software%20and%20DevOps%3A%20Building%20and,Nicole%20Forsgren%20PhD%20(Author)
+https://principlesofchaos.org/
+https://landing.google.com/sre/books/
+https://gomex.me/
+https://leanpub.com/deployemprodparadevs
+https://dev.to/jjude/what-is-a-multi-tenant-system-bpd
+https://dataintensive.net/poster.html
+https://kubernetes.io/docs/concepts/overview/components/
+https://linkerd.io/
+https://istio.io/latest/docs/setup/getting-started/
+https://www.envoyproxy.io/
+https://microservices.io/patterns/server-side-discovery.html
+https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FHighScalability
+https://www.oreilly.com/member/login/
+https://acloudguru.com/pricing
+https://www.linkedin.com/learning/me
+https://exercism.io/
+https://www.codewars.com/
+https://github.com/donnemartin/system-design-primer
