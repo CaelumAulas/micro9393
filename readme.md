@@ -140,3 +140,20 @@ https://www.linkedin.com/learning/me
 https://exercism.io/
 https://www.codewars.com/
 https://github.com/donnemartin/system-design-primer
+
+Aula 7:
+
+https://levelup.gitconnected.com/l4-vs-l7-load-balancing-d2012e271f56
+https://www.consul.io/
+https://firecracker-microvm.github.io/
+https://speakerdeck.com/alexcasalboni/aws-lambda-function-performance-tuning-aws-re-invent-2019?slide=21
+https://resilience4j.readme.io/docs/getting-started
+https://www.twilio.com/
+https://www.infobip.com/pt/produtos/sms
+https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+https://www.vagrantup.com/
+https://aws.amazon.com/architecture/well-architected/?sc_ichannel=ha&sc_icampaign=acq_awsblogsb&sc_icontent=architecture-resources&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc
+https://pragprog.com/titles/mnee2/release-it-second-edition/
+https://pragprog.com/titles/d-devops/devops-in-practice/
+https://pragprog.com/titles/fugue/scalable-cloud-ops-with-fugue/
+https://itrevolution.com/the-phoenix-project/
