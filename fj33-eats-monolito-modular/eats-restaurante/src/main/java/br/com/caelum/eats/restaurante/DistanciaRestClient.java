@@ -3,6 +3,7 @@ package br.com.caelum.eats.restaurante;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -33,7 +34,7 @@ class DistanciaRestClient {
     }
   }
 
-  @Retryable(maxAttempts=5)
+  @Retryable(maxAttempts=5, backoff=@Backoff(delay=2000,multiplier=2))
   void restauranteAtualizado(Restaurante restaurante) {
 	log.info("monólito tentando chamar distancia-service");
 	  
