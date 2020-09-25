@@ -8,11 +8,11 @@ import lombok.AllArgsConstructor;
 
 @Service
 @AllArgsConstructor
-class NotificadorPagamentoConfirmado {
+public class NotificadorPagamentoConfirmado {
 
   private PagamentoSource source;
 
-  void notificaPagamentoConfirmado(Pagamento pagamento) {
+  public void notificaPagamentoConfirmado(Pagamento pagamento) {
     Long pagamentoId = pagamento.getId();
     Long pedidoId = pagamento.getPedidoId();
     PagamentoConfirmado confirmado = new PagamentoConfirmado(pagamentoId, pedidoId);
