@@ -5,7 +5,7 @@ Contract.make {
         method POST()
         url("/restaurantes")
         body([
-          id: 5,
+          id: 2,
           cep: '71500-000',
           tipoDeCozinhaId: 1
         ])
