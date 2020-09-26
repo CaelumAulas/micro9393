@@ -169,3 +169,38 @@ Aula 8:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/DeadLetterChannel.html
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html
 - https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+
+Aula 9:
+
+- https://kabanero.io/
+- https://requestbin.com/
+- https://pipedream.com/sources/dc_qQuEWV
+- https://docs.pact.io/
+- https://spring.io/projects/spring-cloud-contract#samples
+- http://wiremock.org/
+- https://app.swaggerhub.com/help/integrations/api-auto-mocking
+- https://getsandbox.com/
+- https://solid-is-not-solid.com/
+- https://algorithms-tour.stitchfix.com/
+- https://12factor.net/config
+
+Aula 10:
+
+- http://www.yamllint.com/
+- https://cloud.spring.io/spring-cloud-config/reference/html/
+- https://alpinelinux.org/
+- https://hub.docker.com/_/openjdk?tab=tags&page=1&name=8-jdk-a
+- https://labs.play-with-docker.com/
+- https://www.thoughtworks.com/pt/radar/platforms
+- https://www.thoughtworks.com/
+- https://prometheus.io/docs/alerting/latest/alertmanager/
+- https://prometheus.io/
+- https://www.graylog.org/
+- https://micrometer.io/
+- https://grafana.com/grafana/dashboards/4701
+- https://visualvm.github.io/
+- https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.-html#production-ready-endpoints-security
+- https://cloud.spring.io/spring-cloud-config/reference/html/#_push_notifications_and_spring_cloud_bus
+- https://www.influxdata.com/integration/nginx-monitoring-tools/
+- https://bitwarden.com/
+- https://git-scm.com/docs/git-svn
