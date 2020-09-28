@@ -4,6 +4,7 @@ https://gitlab.com/aovs/projetos-cursos/fj33-eats-monolito
 
 https://gitlab.com/snippets/1954188/raw
 
+
 https://gitlab.com/aovs/projetos-cursos/fj33-eats-ui
 https://gitlab.com/aovs/projetos-cursos/fj33-eats-pagamento-service
 https://gitlab.com/aovs/projetos-cursos/fj33-eats-distancia-service
@@ -204,3 +205,4 @@ Aula 10:
 - https://www.influxdata.com/integration/nginx-monitoring-tools/
 - https://bitwarden.com/
 - https://git-scm.com/docs/git-svn
+- 
